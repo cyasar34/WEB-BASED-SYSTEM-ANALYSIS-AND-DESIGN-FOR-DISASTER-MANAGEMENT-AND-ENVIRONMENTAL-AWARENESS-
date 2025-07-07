@@ -48,7 +48,7 @@ Abstract:
 - **APA**: Yaşar, Ç., Cebeci, İ.& Karagöz, N. (2025).  AFET YÖNETİMİ VE ÇEVRE BİLİNCİ İÇİN WEB TABANLI SİSTEM ANALİZİ VE TASARIMI. 11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi (pp.685-692). Bakü, Azerbaycan.                            
 - **MLA**: Yaşar, ÇİSEM, Cebeci, İREM ve KARAGÖZ, Nisa.  "AFET YÖNETİMİ VE ÇEVRE BİLİNCİ İÇİN WEB TABANLI SİSTEM ANALİZİ VE TASARIMI"  11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi, Bakü, Azerbaycan. pp.685-692, 2025               
 
-![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-LEARNING-PLATFORM-SUPPORTED-BY-INTERACTIVE-SIMULATIONS-PHYLAB/blob/main/phylab_tam_metin.PNG)
+![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-SYSTEM-ANALYSIS-AND-DESIGN-FOR-DISASTER-MANAGEMENT-AND-ENVIRONMENTAL-AWARENESS-/blob/main/afet_yonetimi.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
